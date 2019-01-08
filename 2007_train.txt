@@ -1,0 +1,287 @@
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/88.png 677,453,717,498,0 615,467,656,526,0 412,415,447,462,0 581,467,708,665,1 680,440,759,666,1 378,412,498,664,1 936,388,978,441,0 896,389,1018,661,1 205,126,241,196,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/63.png 581,311,601,334,0 485,307,503,332,0 258,316,278,343,0 567,310,631,493,1 470,307,527,469,1 238,315,306,435,1 208,130,240,195,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/77.png 562,309,584,334,0 413,312,436,342,0 253,316,272,340,0 542,307,610,507,1 397,313,462,511,1 237,315,309,509,1 208,127,236,187,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00062.png 210,21,243,68,0 321,32,361,74,0 173,20,254,317,1 292,31,389,329,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00065.png 41,17,78,56,0 21,16,132,302,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00071.png 107,20,143,59,0 336,44,362,77,0 512,23,539,56,0 657,11,687,48,0 45,20,171,359,1 292,44,382,299,1 480,23,562,301,1 569,52,607,178,1 597,12,709,301,1 703,52,743,174,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00059.png 122,41,161,83,0 441,35,478,74,0 100,41,179,335,1 379,35,529,321,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00058.png 2,42,22,67,0 203,22,240,67,0 236,28,261,60,0 319,21,348,51,0 354,65,391,108,0 165,22,243,317,1 229,27,304,290,1 317,66,454,349,1 293,22,366,272,1 1,41,32,122,1 61,47,95,129,1 100,54,137,126,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00070.png 40,24,75,74,0 234,15,262,53,0 12,19,121,339,1 184,15,304,311,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00064.png 54,44,67,60,0 108,47,124,65,0 270,24,314,72,0 34,43,68,102,1 102,46,134,116,1 224,24,338,308,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00063.png 39,37,80,85,0 149,37,175,67,0 226,35,246,62,0 192,42,227,93,0 316,53,327,61,0 27,36,114,333,1 133,36,189,220,1 155,44,261,332,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/76.png 565,308,586,337,0 416,316,437,342,0 255,315,273,340,0 541,305,613,505,1 397,315,466,511,1 241,315,304,509,1 210,128,237,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/62.png 616,310,635,334,0 443,280,465,305,0 256,317,277,341,0 601,310,661,490,1 430,281,485,447,1 237,318,305,511,1 208,131,241,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/89.png 703,528,745,590,0 688,475,729,525,0 432,440,472,493,0 661,526,811,663,1 390,440,532,661,1 821,363,863,411,0 797,361,897,663,1 200,130,238,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/48.png 208,127,240,194,2 709,287,727,312,0 616,300,636,324,0 363,328,388,351,0 693,287,746,456,1 608,299,660,468,1 361,327,398,425,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/74.png 562,311,583,336,0 416,315,437,342,0 256,316,273,338,0 541,310,610,506,1 402,315,468,507,1 236,315,307,511,1 207,130,238,198,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/60.png 591,252,609,272,0 676,305,694,328,0 252,318,270,342,0 580,252,637,403,0 663,306,719,479,0 237,318,303,505,0 211,130,237,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00061.png 173,78,201,118,0 201,69,233,118,0 377,82,414,135,0 441,84,484,140,0 160,76,207,340,1 187,70,263,352,1 339,84,427,386,1 425,84,529,388,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00049.png 214,103,252,154,0 147,122,185,162,0 315,123,343,158,0 387,106,424,150,0 420,126,447,166,0 125,122,213,413,1 213,101,317,393,1 319,103,425,387,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00072.png 189,25,223,64,0 330,55,362,94,0 133,25,261,332,1 279,54,421,330,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00066.png 60,74,96,117,0 114,27,148,71,0 333,30,368,71,0 11,73,128,361,1 102,28,191,346,1 263,30,399,311,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00067.png 92,12,129,56,0 312,61,334,86,0 35,11,187,296,1 294,62,342,143,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00073.png 136,37,166,70,0 212,45,249,80,0 339,50,374,86,0 95,36,190,326,1 183,44,275,338,1 320,50,409,328,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00048.png 24,245,56,287,0 29,221,54,253,0 87,229,119,265,0 160,233,192,274,0 190,219,226,259,0 492,261,532,305,1 332,245,352,269,1 8,245,74,536,1 76,229,143,456,1 162,220,250,508,1 462,260,580,541,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00074.png 59,51,99,95,0 198,61,236,101,0 48,51,126,351,1 177,62,256,347,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00060.png 231,138,267,179,0 304,130,344,178,0 429,147,468,194,0 188,137,292,425,1 290,133,380,427,1 394,142,500,425,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/61.png 650,306,668,332,0 462,262,480,283,0 253,317,272,342,0 636,306,697,487,1 446,263,500,418,1 238,316,306,509,1 208,128,238,197,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/75.png 567,307,588,336,0 416,313,437,340,0 256,317,272,339,0 543,307,613,506,1 398,311,470,511,1 240,315,305,508,1 203,128,243,205,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/49.png 205,128,240,200,2 707,288,727,310,0 528,303,551,325,0 693,288,744,455,1 515,302,560,472,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/71.png 562,308,586,335,0 433,311,452,338,0 255,316,276,338,0 542,307,607,450,1 416,310,482,503,1 242,316,306,508,1 210,130,240,200,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/65.png 558,307,583,335,0 490,310,508,336,0 253,316,272,341,0 538,308,608,489,1 473,310,536,493,1 241,316,307,507,1 208,127,239,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/59.png 207,130,237,195,2 760,238,777,262,0 692,300,711,328,0 250,316,269,338,0 751,237,795,390,1 671,300,735,475,1 231,317,303,507,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00058.png 49,118,60,139,0 181,93,221,145,0 309,99,330,129,0 374,93,397,125,0 427,123,439,135,0 503,119,515,133,0 465,122,471,133,0 477,129,485,141,0 43,116,65,216,1 140,92,260,464,1 287,96,343,282,1 352,92,407,274,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00064.png 187,97,221,140,0 345,100,378,140,0 437,110,470,158,0 457,120,476,148,0 139,99,241,387,1 315,99,399,395,1 403,109,519,404,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00070.png 311,70,344,109,0 304,69,335,113,0 285,68,369,365,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00077.png 98,26,133,64,0 63,26,177,314,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00063.png 0,79,14,103,0 71,78,92,103,0 144,48,180,90,0 173,19,208,59,0 62,77,114,176,1 97,49,261,336,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00088.png 121,17,157,58,0 69,17,210,310,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00089.png 193,5,228,46,0 107,23,138,59,0 83,24,161,293,1 138,5,295,309,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00062.png 9,44,29,71,0 119,10,145,51,0 215,34,244,73,0 273,53,291,80,0 333,51,354,76,0 -1,43,54,221,1 86,11,184,298,1 175,33,277,304,1 268,54,305,189,1 316,51,369,230,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00076.png 241,29,275,67,0 186,29,313,320,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00071.png 165,44,200,87,0 279,36,317,78,0 311,30,331,56,0 231,48,245,66,0 137,42,247,330,1 255,39,341,345,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00065.png 20,56,40,77,0 72,69,114,119,0 177,81,217,129,0 253,88,290,139,0 354,86,386,123,0 12,54,59,183,1 26,67,146,382,1 148,79,238,382,1 238,66,315,394,1 339,86,426,350,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00059.png 58,51,98,98,0 196,38,232,82,0 295,42,330,90,0 32,49,134,329,1 156,37,251,326,1 269,41,383,323,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/58.png 695,302,712,328,0 916,232,933,256,0 282,316,302,340,0 896,232,951,383,1 678,301,733,469,1 267,318,327,469,1 208,130,240,193,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/64.png 567,311,586,336,0 503,305,523,332,0 256,316,278,340,0 546,311,615,504,1 492,306,548,482,1 240,316,308,508,1 205,128,242,195,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/70.png 566,308,588,336,0 436,311,455,340,0 256,317,275,340,0 541,308,610,501,1 417,310,485,507,1 240,316,310,508,1 207,128,238,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/99.png 208,132,242,198,3 631,289,654,312,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/66.png 561,311,584,334,0 458,315,477,341,0 252,316,275,338,0 538,311,611,508,1 441,315,507,497,1 237,315,310,507,1 208,127,240,193,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/72.png 563,308,585,333,0 435,313,456,340,0 255,315,274,338,0 542,306,608,499,1 421,312,487,506,1 241,316,305,465,1 203,127,241,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/8.png 210,128,240,197,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00073.png 86,66,123,110,0 200,59,239,106,0 54,65,157,358,1 188,61,292,349,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00067.png 86,74,126,121,0 58,73,184,373,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00048.png 59,31,87,68,0 136,31,170,70,0 319,19,361,71,0 31,31,123,321,1 115,32,192,318,1 266,19,378,367,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00060.png 75,24,110,65,0 128,25,147,53,0 153,26,176,51,0 220,18,248,51,0 311,81,346,120,0 401,31,441,71,0 42,23,141,323,1 272,80,388,321,1 378,31,467,330,1 189,19,279,224,1 117,26,189,224,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00074.png 190,44,221,76,0 226,22,260,60,0 342,32,374,69,0 135,28,221,289,1 196,22,276,306,1 272,33,414,317,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00075.png 272,24,303,64,0 196,25,339,308,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00061.png 58,15,91,49,0 249,54,261,72,0 41,16,143,304,1 247,53,272,143,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00049.png 124,46,151,83,0 200,44,228,86,0 325,75,345,100,0 79,46,168,339,1 173,44,249,336,1 246,78,295,236,1 287,74,317,177,1 313,75,364,238,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00066.png 262,46,299,92,0 247,42,328,348,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00072.png 75,39,111,83,0 45,39,137,327,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/9.png 206,130,242,193,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/73.png 561,310,581,333,0 423,316,442,341,0 255,317,274,339,0 542,311,607,505,1 406,317,473,507,1 238,318,306,510,1 205,128,240,195,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/67.png 563,310,586,337,0 440,312,460,338,0 256,317,273,343,0 542,311,608,468,1 422,312,487,506,1 241,317,310,510,1 208,128,237,192,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/98.png 602,291,625,318,0 578,293,635,486,1 210,136,241,198,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/101.png 206,127,241,201,3 752,242,775,268,0 737,242,795,423,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/115.png 207,132,243,198,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/28.png 206,128,241,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/14.png 207,126,239,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00015.png 72,42,112,90,0 24,42,176,326,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00001.png 213,178,248,222,0 431,171,473,222,0 159,183,301,431,1 417,170,543,486,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00029.png 59,78,93,117,0 269,69,309,112,0 35,79,155,315,1 247,63,369,351,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00006.png 5,100,43,146,0 39,88,75,136,0 120,74,160,120,0 238,92,270,138,0 489,106,531,150,0 523,148,555,184,0 2,99,71,400,1 41,88,149,383,1 111,71,237,415,1 237,92,325,387,1 441,105,607,435,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00012.png 161,119,200,165,0 443,143,461,182,0 140,120,210,400,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00013.png 149,78,185,114,0 309,93,338,119,0 430,79,458,113,0 98,78,208,358,1 217,88,258,193,1 261,90,365,360,1 383,79,498,355,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00007.png 86,56,121,99,0 148,80,178,124,0 229,76,261,120,0 319,72,349,116,0 441,65,474,106,0 47,55,168,343,1 127,83,207,355,1 199,75,311,363,1 299,71,383,401,1 423,64,533,343,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00028.png 70,16,110,58,0 230,18,272,70,0 299,27,314,54,0 6,17,148,301,1 181,18,316,319,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00014.png 282,86,320,129,0 333,81,370,125,0 233,86,405,364,1 285,82,430,356,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/15.png 208,129,239,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/29.png 207,128,241,196,2 626,310,701,444,1 650,308,677,340,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/114.png 210,130,241,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/100.png 676,262,697,286,0 660,262,715,446,1 206,130,241,202,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/116.png 207,131,240,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/102.png 210,131,240,197,3 867,233,885,255,0 848,232,911,403,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/17.png 207,128,241,198,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00002.png 115,93,151,137,0 147,99,180,141,0 66,91,189,381,1 145,100,228,372,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00016.png 124,83,160,130,0 320,91,352,128,0 426,100,464,135,0 264,94,284,123,0 242,95,260,118,0 358,103,380,130,0 392,102,414,127,0 76,83,205,383,1 276,91,400,361,1 410,99,494,376,1 354,103,404,263,1 383,101,424,260,1 460,103,498,262,1 242,93,296,255,1 223,95,264,200,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00011.png 147,60,183,102,0 92,61,240,342,1 244,51,301,357,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00005.png 85,125,115,167,0 172,153,207,191,0 327,141,359,181,0 335,118,359,153,0 550,163,585,207,0 613,154,647,193,0 63,125,157,404,1 166,152,251,408,1 259,144,417,436,1 539,160,667,442,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00039.png 350,71,391,110,0 278,26,311,71,0 247,25,330,199,1 330,71,413,360,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00038.png 272,37,313,80,0 231,36,366,314,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00004.png 99,62,135,108,0 164,90,201,130,0 243,92,283,140,0 442,96,478,138,0 633,108,671,152,0 67,63,163,407,1 151,89,255,383,1 231,93,321,383,1 415,97,523,392,1 595,111,740,392,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00010.png 49,60,83,99,0 207,53,237,93,0 292,125,317,155,0 352,139,388,183,0 391,63,417,97,0 421,58,457,98,0 520,74,558,111,0 555,62,579,93,0 590,33,626,78,0 18,60,114,340,1 177,52,261,336,1 267,125,345,340,1 307,138,437,494,1 391,57,486,421,1 474,73,618,442,1 569,32,681,393,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00017.png 127,53,161,90,0 161,49,199,89,0 113,47,243,329,1 113,51,193,288,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00003.png 349,134,383,176,0 345,124,375,168,0 371,145,399,184,0 290,128,444,419,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/16.png 207,128,239,200,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/103.png 207,131,237,202,3 971,222,988,249,0 940,222,1006,388,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/117.png
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/113.png 210,135,243,201,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/107.png 211,131,242,200,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/12.png 207,128,241,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00007.png 139,68,175,109,0 333,106,343,121,0 350,105,357,118,0 417,75,457,122,0 451,69,493,116,0 108,68,217,346,1 375,76,530,379,1 432,69,535,351,1 316,106,348,192,1 343,105,361,170,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00013.png 439,191,478,239,0 385,190,556,479,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00028.png 283,50,314,90,0 195,51,316,336,1 198,60,272,330,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00014.png 158,38,180,59,0 304,38,321,59,0 249,66,282,112,0 382,58,412,101,0 126,37,203,230,1 207,66,310,337,1 351,57,443,335,1 292,37,349,224,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00001.png 108,66,143,106,0 230,22,249,49,0 312,46,334,73,0 308,74,338,113,0 380,69,402,90,0 342,65,362,90,0 424,37,456,81,0 458,49,482,77,0 552,63,577,97,0 490,43,510,70,0 574,49,590,75,0 529,33,542,53,0 85,64,196,353,1 204,22,266,196,1 265,76,356,340,1 404,37,500,348,1 520,64,612,316,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00015.png 183,94,218,140,0 724,81,758,126,0 750,94,778,134,0 146,86,266,418,1 745,95,818,383,1 284,90,449,378,1 329,90,374,133,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00029.png 158,64,186,102,0 296,98,329,141,0 397,101,432,141,0 526,104,568,141,0 114,64,211,367,1 276,97,335,388,1 360,101,463,389,1 509,105,585,391,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00012.png 210,74,250,114,0 380,58,413,94,0 153,73,296,361,1 328,58,440,326,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00006.png 264,109,296,148,0 280,83,314,123,0 34,91,72,133,0 0,107,32,152,0 0,109,88,385,1 24,91,102,367,1 206,108,348,383,1 253,83,352,368,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/13.png 205,128,242,200,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/106.png 208,130,241,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/112.png 206,128,242,196,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/104.png 208,132,239,202,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/110.png 698,250,727,281,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/11.png 207,128,241,200,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/39.png 1083,238,1102,264,0 1081,236,1123,390,1 209,126,238,197,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00038.png 283,47,319,83,0 292,11,315,39,0 217,46,399,330,1 281,10,333,106,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00010.png 297,88,329,132,0 279,89,400,376,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00004.png 215,60,250,101,0 14,56,34,74,0 -1,60,8,84,0 7,57,48,180,1 0,60,34,185,1 166,57,318,337,1 196,58,328,315,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00003.png 27,33,71,87,0 464,61,501,103,0 561,87,603,140,0 6,30,169,366,1 441,60,529,354,1 529,87,665,382,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00017.png 141,49,182,91,0 337,48,371,81,0 116,49,202,385,1 258,48,394,334,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00016.png 106,51,143,89,0 247,92,280,127,0 506,66,542,104,0 557,86,572,106,0 86,50,143,360,1 468,66,577,366,1 238,93,329,384,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00002.png 53,78,82,111,0 85,45,120,83,0 132,63,152,87,0 284,79,316,113,0 398,31,429,71,0 436,67,472,101,0 524,93,552,125,0 526,49,556,84,0 638,75,673,111,0 645,37,681,80,0 7,79,98,308,1 84,46,166,298,1 266,78,370,298,1 362,31,515,335,1 514,94,606,310,1 515,50,604,299,1 578,76,712,362,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00005.png 227,54,264,94,0 7,47,23,63,0 0,47,37,161,1 184,53,319,338,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00011.png 309,108,351,160,0 275,108,438,394,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00039.png 256,129,290,169,0 147,133,171,157,0 134,132,198,310,1 229,128,332,408,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/38.png 209,128,238,198,2 169,306,202,344,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/10.png 206,128,241,201,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/111.png 211,130,245,198,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/105.png 211,132,237,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/108.png 211,130,242,198,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/21.png 207,128,237,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/35.png 208,128,241,200,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00034.png 162,38,204,81,0 74,57,90,69,0 113,36,252,332,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00020.png 394,98,429,138,0 337,97,509,378,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00008.png 50,175,76,203,0 -1,178,22,209,0 282,157,322,197,0 0,177,45,381,1 41,175,113,363,1 225,158,369,435,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00027.png 145,62,169,94,0 155,91,183,129,0 216,79,250,123,0 377,96,398,127,0 345,97,426,325,1 205,78,318,366,1 125,92,203,364,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00033.png 0,98,28,134,0 68,35,103,74,0 137,49,173,92,0 302,150,326,183,0 438,69,470,108,0 0,97,48,324,1 32,36,115,371,1 109,50,208,375,1 273,149,387,333,1 390,69,509,364,1 365,38,385,63,0 355,38,388,119,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00032.png 118,50,150,82,0 92,49,200,329,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00026.png 28,107,50,130,0 250,117,281,151,0 364,91,404,130,0 13,106,72,150,1 217,118,302,371,1 303,91,446,378,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00009.png 220,124,253,166,0 364,140,402,184,0 154,123,298,397,1 307,140,454,427,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00021.png 361,81,393,124,0 245,91,257,105,0 53,91,63,101,0 230,91,268,166,1 46,90,72,159,1 322,80,472,369,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00035.png 115,36,154,82,0 64,35,189,331,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/34.png 413,316,441,344,0 385,316,457,449,1 208,128,242,201,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/20.png 205,129,241,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/109.png 211,132,239,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/36.png 938,304,969,337,0 209,128,241,197,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/22.png 209,128,239,198,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00023.png 253,84,289,127,0 202,82,342,370,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00037.png 315,63,355,107,0 257,63,415,350,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00030.png 21,35,53,77,0 178,38,215,78,0 368,43,407,83,0 327,43,448,338,1 141,39,250,335,1 -1,36,93,340,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00024.png 100,55,137,97,0 68,55,167,348,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00018.png 87,31,115,69,0 187,77,202,103,0 203,68,222,96,0 71,31,143,325,1 180,69,250,304,1 169,77,209,288,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00019.png 55,76,82,110,0 197,71,227,104,0 350,60,377,91,0 405,47,436,80,0 485,73,514,104,0 563,79,595,111,0 623,77,652,111,0 17,76,104,354,1 158,72,244,358,1 319,61,387,361,1 367,46,460,368,1 523,78,636,374,1 465,73,536,361,1 612,78,701,374,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00025.png 125,30,162,67,0 193,149,219,179,0 70,30,196,310,1 193,149,276,303,1 389,4,416,72,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00031.png 293,40,328,81,0 239,39,391,324,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00036.png 197,96,237,145,0 284,124,316,160,0 252,137,284,172,0 748,140,772,174,0 852,118,884,160,0 130,95,282,396,1 242,136,327,364,1 270,119,330,363,1 724,139,787,345,1 802,121,938,379,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00022.png 136,166,180,210,0 0,142,32,183,0 324,202,349,224,0 440,167,484,211,0 0,141,74,455,1 110,165,207,449,1 302,201,378,333,1 394,165,514,454,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/23.png 205,128,242,196,2 171,317,278,459,1 237,316,265,341,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/37.png 207,128,241,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/33.png 207,128,240,198,2 81,322,163,460,1 130,324,210,464,1 109,322,137,356,0 162,324,193,348,0 475,307,499,336,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/27.png 209,129,241,196,2 19,321,99,476,1 41,320,75,356,0 301,316,377,472,1 273,309,331,464,1 611,308,686,448,1 285,309,309,336,0 333,316,358,344,0 630,308,662,340,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00026.png 81,79,116,125,0 208,83,242,125,0 42,80,150,386,1 186,82,279,374,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00032.png 484,161,520,203,0 452,158,572,451,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00009.png 96,84,122,116,0 120,64,145,94,0 158,78,182,109,0 174,82,205,118,0 185,69,213,104,0 234,84,256,113,0 253,84,280,114,0 317,90,344,124,0 346,82,380,120,0 380,96,412,136,0 476,80,496,109,0 500,95,535,131,0 533,88,568,128,0 582,86,605,108,0 549,68,568,97,0 44,81,132,289,1 162,83,243,345,1 466,99,566,399,1 312,83,394,367,1 379,95,472,343,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00035.png 151,33,181,70,0 190,27,224,67,0 443,54,480,86,0 121,32,201,328,1 178,26,277,330,1 603,4,622,126,1 365,55,542,333,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00021.png 143,115,179,161,0 521,80,558,123,0 606,113,636,149,0 73,115,213,403,1 458,79,583,384,1 568,112,682,383,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00020.png 206,123,241,152,0 432,76,471,117,0 495,91,522,119,0 134,123,254,372,1 441,76,559,361,1 385,75,489,359,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00034.png 153,56,184,97,0 206,63,238,107,0 341,64,367,97,0 401,65,433,103,0 108,55,288,387,1 304,64,403,339,1 206,63,279,354,1 374,65,489,355,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00008.png 102,67,138,107,0 255,75,283,113,0 302,80,337,119,0 343,51,372,88,0 387,52,410,83,0 46,66,180,367,1 196,74,313,326,1 256,76,400,344,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00033.png 210,52,247,100,0 340,82,364,109,0 164,52,306,347,1 336,79,373,237,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00027.png 160,47,199,93,0 102,46,253,326,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/26.png 209,129,238,194,2 1088,298,1118,332,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/32.png 206,131,241,199,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/24.png 1031,297,1098,438,1 1037,296,1061,329,0 209,130,241,194,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/30.png 206,128,241,200,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/18.png 209,128,238,200,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00019.png 236,123,284,169,0 44,129,80,172,0 193,122,339,421,1 7,130,141,387,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00031.png 334,125,369,167,0 294,124,447,408,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00025.png 54,84,76,112,0 120,68,142,98,0 144,74,164,100,0 196,50,221,80,0 216,75,246,100,0 310,62,344,98,0 272,72,312,108,0 42,87,94,257,1 110,70,170,249,1 126,78,186,261,1 182,47,228,251,1 211,73,263,258,1 223,69,394,357,1 307,65,386,263,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00022.png 88,120,116,164,0 168,150,198,190,0 294,151,325,194,0 383,165,403,184,0 706,119,732,154,0 741,128,767,162,0 29,119,162,412,1 135,149,257,410,1 213,150,353,408,1 330,229,331,232,1 351,165,423,341,1 664,119,733,381,1 705,129,841,389,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00036.png 93,61,128,107,0 524,33,565,78,0 53,62,163,330,1 512,33,634,327,1 571,1,595,69,1 601,-1,628,79,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00037.png 260,22,298,67,0 236,23,329,304,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00023.png 155,61,190,103,0 333,132,352,153,0 107,60,273,361,1 235,151,287,209,1 328,132,370,208,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00024.png 155,83,195,127,0 102,82,269,370,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00030.png 107,79,152,131,0 57,80,207,375,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00018.png 30,19,71,63,0 17,18,127,304,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/19.png 207,129,241,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/31.png 206,126,241,197,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/25.png 207,128,241,200,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/81.png 576,333,601,363,0 431,333,455,363,0 272,335,296,366,0 556,331,628,545,1 412,331,486,548,1 253,336,328,537,1 210,131,240,200,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/95.png 580,301,606,329,0 560,300,627,527,1 210,133,242,200,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/42.png 209,128,241,197,2 349,310,375,340,0 785,264,807,292,0 317,311,393,473,1 755,265,830,425,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/56.png 710,288,728,314,0 398,311,416,335,0 692,287,750,452,1 385,310,442,483,1 210,127,238,194,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/4.png 209,128,239,201,2 651,220,673,248,0 645,220,711,397,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00057.png 54,91,89,135,0 153,91,185,133,0 13,105,29,125,0 353,114,374,141,0 259,81,287,121,0 250,107,270,127,0 293,111,315,134,0 393,113,413,137,0 3,104,33,221,1 21,92,143,406,1 131,92,207,356,1 235,82,312,356,1 339,112,389,268,1 383,112,423,248,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00043.png 190,135,223,181,0 135,139,163,179,0 222,137,254,178,0 270,126,315,170,0 92,135,126,179,0 54,161,82,191,0 462,153,484,185,0 80,140,140,426,1 128,136,169,408,1 149,134,244,433,1 204,132,264,400,1 261,125,357,436,1 444,152,492,336,1 38,161,88,362,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00044.png 115,37,146,77,0 150,63,173,91,0 190,74,201,93,0 274,62,299,88,0 344,53,371,81,0 70,37,169,324,1 183,73,216,193,1 255,61,330,280,1 333,53,404,277,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00050.png 124,40,152,74,0 78,27,101,55,0 61,26,125,222,1 89,40,193,288,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00078.png 271,58,300,93,0 215,58,320,352,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00087.png 64,11,98,54,0 22,11,130,318,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00093.png 105,5,145,47,0 48,5,216,302,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00092.png 212,74,255,125,0 375,97,408,132,0 106,74,307,433,1 288,96,463,389,1 33,249,44,263,0 43,252,51,268,0 24,248,57,285,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00086.png 136,162,172,199,0 252,48,283,82,0 389,31,414,70,0 131,63,145,79,0 34,31,60,59,0 18,30,78,250,1 115,64,163,160,1 90,162,185,353,1 179,57,231,195,1 207,48,309,317,1 350,31,457,324,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00079.png 254,26,281,65,0 204,25,322,319,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00051.png 91,48,119,87,0 368,22,407,61,0 358,64,400,108,0 468,32,506,81,0 588,66,618,104,0 36,48,202,324,1 311,64,468,361,1 459,33,585,370,1 546,65,625,343,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00045.png 127,61,167,104,0 250,62,283,100,0 347,67,381,102,0 436,65,452,85,0 501,59,519,81,0 558,43,591,80,0 73,61,193,365,1 226,63,320,353,1 325,66,434,344,1 426,64,475,216,1 494,59,545,210,1 525,43,640,347,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00042.png 178,183,212,227,0 317,156,351,201,0 542,172,584,236,0 458,277,514,315,0 403,175,446,225,0 158,182,250,474,1 294,154,388,470,1 380,175,452,370,1 452,271,552,544,1 513,166,588,543,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00056.png 231,256,262,298,0 284,253,316,296,0 474,245,506,284,0 196,255,267,525,1 252,252,366,527,1 434,243,538,519,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/57.png 710,301,727,325,0 345,315,363,338,0 690,300,747,463,1 327,315,388,490,1 210,126,240,197,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/5.png 503,228,520,253,0 493,226,554,407,1 207,128,240,192,2 733,302,778,430,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/43.png 209,128,241,198,2 618,313,643,344,0 653,317,677,346,0 717,276,741,302,0 601,314,655,453,1 646,316,703,446,1 705,276,762,436,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/94.png 593,300,623,330,0 575,301,649,548,1 207,132,243,198,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/80.png 568,319,595,349,0 430,321,456,353,0 277,330,302,358,0 548,316,616,522,1 416,322,481,525,1 258,330,330,527,1 208,127,243,198,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/96.png 576,295,599,324,0 543,296,606,507,1 205,126,240,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/82.png 608,337,633,368,0 435,346,461,376,0 256,345,276,377,0 581,337,667,567,1 416,346,496,573,1 228,345,310,557,1 206,130,245,203,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/69.png 561,312,582,333,0 433,315,453,342,0 255,316,273,341,0 546,312,607,505,1 417,316,487,507,1 240,317,307,512,1 210,130,238,190,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/7.png 156,246,176,271,0 155,246,222,430,1 210,128,236,195,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/55.png 711,288,728,311,0 453,308,468,329,0 691,288,746,456,1 435,310,494,476,1 207,130,238,192,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/41.png 982,308,1013,338,0 897,256,918,284,0 883,254,937,397,1 953,308,1026,456,1 209,128,239,198,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00040.png 227,157,259,195,0 308,168,335,204,0 201,158,278,434,1 281,166,375,430,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00054.png 123,132,154,172,0 314,113,338,144,0 378,114,406,149,0 96,132,182,420,1 288,110,357,332,1 362,111,436,328,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00068.png 263,63,303,109,0 247,64,318,360,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00053.png 58,28,88,68,0 192,28,224,77,0 13,28,125,321,1 167,29,266,327,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00047.png 167,55,194,91,0 214,44,233,62,0 297,35,327,69,0 359,41,384,65,0 116,54,229,331,1 262,35,355,317,1 363,41,428,193,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00090.png 60,36,96,75,0 101,21,145,74,0 249,36,288,77,0 40,34,106,344,1 79,23,205,357,1 211,37,359,322,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00084.png 211,45,260,105,0 275,25,323,75,0 154,92,197,254,1 159,45,294,343,1 273,26,369,327,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00085.png 129,25,160,65,0 292,36,319,71,0 87,25,191,319,1 247,36,358,326,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00091.png 264,21,297,59,0 213,22,342,320,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00046.png 46,56,75,93,0 350,20,376,56,0 20,56,103,321,1 319,20,414,316,1 420,60,443,119,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00052.png 110,135,137,172,0 211,178,247,218,0 298,176,319,199,0 423,158,456,188,0 559,83,586,107,0 76,135,173,426,1 165,178,290,488,1 291,176,332,309,1 399,159,487,397,1 542,82,598,165,1 521,151,614,392,1 88,0,114,67,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00069.png 247,71,282,111,0 215,67,315,362,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00055.png 196,173,236,223,0 145,174,281,530,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00041.png 8,155,52,209,0 57,187,84,217,0 308,181,340,220,0 364,159,400,201,0 393,155,412,187,0 308,167,336,205,0 1,154,62,504,1 44,186,108,390,1 286,172,354,438,1 350,158,430,440,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/40.png 990,248,1011,272,0 966,242,1029,402,1 209,128,239,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/6.png 210,128,238,197,2 338,238,359,262,0 325,237,411,420,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/54.png 838,311,859,337,0 710,288,731,312,0 475,304,491,325,0 822,312,886,448,1 693,289,748,456,1 457,303,520,472,1 208,127,237,193,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/68.png 562,307,583,333,0 431,317,450,341,0 256,316,275,338,0 545,307,608,503,1 413,316,483,506,1 237,315,306,511,1 202,126,237,198,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/83.png 635,341,665,372,0 458,353,485,383,0 287,346,312,380,0 605,340,697,587,1 433,352,517,602,1 258,345,339,585,1 207,127,240,198,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/97.png 586,290,608,320,0 557,287,620,496,1 206,133,245,200,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/93.png 636,315,663,347,0 613,312,691,576,1 208,135,243,196,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/87.png 666,402,701,445,0 573,430,610,478,0 390,397,420,433,0 645,400,742,660,1 540,422,659,661,1 363,391,472,666,1 206,132,246,198,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/50.png 708,288,729,312,0 487,301,504,325,0 208,130,239,193,2 478,302,527,472,1 692,287,751,456,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/2.png 207,128,242,200,2 893,209,943,378,1 905,209,922,234,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/44.png 15,317,45,357,0 705,284,729,312,0 1095,284,1117,308,0 689,284,747,456,1 1069,284,1129,444,1 209,129,241,196,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/78.png 561,306,585,337,0 421,313,441,341,0 251,315,275,341,0 541,306,608,505,1 402,311,472,507,1 235,315,305,511,1 205,128,243,202,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00045.png 219,191,251,239,0 349,199,389,245,0 265,197,296,235,0 443,181,476,217,0 409,208,442,252,0 201,194,281,482,1 253,196,310,418,1 319,198,393,496,1 393,206,466,494,1 102,194,145,330,1 161,188,210,380,1 441,186,485,415,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00051.png 158,184,190,229,0 126,183,220,475,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00056.png 55,113,76,136,0 98,118,114,142,0 153,118,185,151,0 203,105,230,137,0 235,109,259,146,0 259,96,289,137,0 511,98,535,123,0 138,117,190,383,1 177,106,260,396,1 258,95,317,387,1 349,110,395,207,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00042.png 305,37,335,75,0 410,33,442,72,0 272,37,376,311,1 399,34,473,308,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00095.png 238,46,268,84,0 358,56,389,97,0 191,46,299,335,1 317,56,427,334,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00081.png 191,84,221,124,0 259,52,292,88,0 368,72,404,113,0 158,83,233,365,1 236,51,335,361,1 329,73,452,360,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00080.png 108,45,141,89,0 256,40,288,80,0 362,38,399,81,0 72,44,174,338,1 206,39,311,336,1 322,38,420,324,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00094.png 181,24,210,67,0 136,25,254,319,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00043.png 175,77,192,101,0 234,45,260,77,0 288,77,309,101,0 379,60,410,91,0 140,77,198,252,1 190,45,290,333,1 280,76,325,253,1 429,69,456,155,1 332,61,433,326,1 346,4,359,37,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00057.png 170,65,204,106,0 203,18,241,60,0 156,64,253,350,1 203,17,260,271,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00050.png 63,200,92,248,0 318,216,343,249,0 32,200,140,484,1 289,205,368,415,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00044.png 96,125,144,181,0 288,167,316,221,0 363,173,397,219,0 349,165,372,201,0 354,144,384,174,0 413,141,444,187,0 444,155,480,197,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/79.png 566,321,592,352,0 427,322,450,348,0 246,325,268,350,0 546,321,617,505,1 411,322,476,510,1 237,326,305,512,1 208,128,241,201,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/45.png 210,129,239,197,2 705,288,729,316,0 973,288,995,316,0 693,288,758,456,1 966,287,1009,403,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/51.png 640,291,667,327,0 735,293,757,324,0 555,286,580,315,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/3.png 209,128,241,200,2 777,212,851,388,1 793,212,811,244,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/86.png 657,388,687,433,0 542,403,576,452,0 353,380,383,416,0 623,388,725,664,1 515,401,623,665,1 327,383,429,662,1 210,132,242,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/92.png 705,317,736,352,0 468,561,522,626,0 673,318,752,597,1 206,140,242,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/84.png 651,361,678,395,0 481,357,507,394,0 310,361,340,393,0 617,360,713,616,1 452,357,551,630,1 286,360,382,607,1 203,131,242,203,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/90.png 791,590,847,663,0 721,532,777,602,0 763,336,797,377,0 468,467,510,523,0 736,336,835,530,1 680,535,813,665,1 418,468,562,659,1 206,131,242,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/47.png 706,288,730,313,0 731,300,751,322,0 195,325,220,351,0 688,287,732,346,1 733,300,769,345,1 195,326,249,430,1 207,126,239,195,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/1.png 206,128,243,205,2 978,208,1029,368,1 993,208,1011,234,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/53.png
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00052.png 246,186,284,232,0 198,186,308,493,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00046.png 156,121,179,149,0 195,121,237,165,0 243,119,281,157,0 315,113,349,141,0 371,121,396,149,0 289,111,313,139,0 451,102,479,133,0 491,102,507,129,0 531,118,547,139,0 547,101,567,121,0 179,121,267,407,1 125,116,190,268,1 295,113,369,336,1 361,120,438,324,1 445,104,505,316,1 517,117,565,260,1 481,104,517,200,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00069.png 89,42,119,85,0 207,39,230,73,0 58,42,147,326,1 168,39,267,307,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00041.png 360,98,393,136,0 357,97,464,378,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00055.png 124,50,153,93,0 90,7,120,52,0 26,6,120,281,1 87,50,204,343,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00082.png 154,22,182,57,0 82,22,228,309,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00096.png 41,37,68,73,0 136,30,161,72,0 3,36,95,321,1 101,27,204,322,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00083.png 69,20,103,60,0 152,34,201,80,0 38,21,133,294,1 110,34,245,324,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00054.png 59,19,89,58,0 41,19,126,314,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00040.png 237,41,271,79,0 200,42,311,330,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/PennPed00068.png 70,88,107,133,0 203,54,232,92,0 416,44,432,72,0 508,36,541,74,0 39,87,152,364,1 190,55,279,350,1 383,44,453,220,1 426,36,563,349,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00047.png 42,192,72,223,0 110,166,142,202,0 109,188,140,230,0 151,194,198,241,0 310,200,348,248,0 252,194,280,222,0 201,194,224,220,0 234,174,264,206,0 313,174,344,211,0 365,186,376,210,0 390,183,412,200,0 288,167,301,186,0 220,170,238,186,0 448,176,468,204,0
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/FudanPed00053.png 115,168,147,205,0 435,149,478,194,0 88,165,194,432,1 384,149,500,449,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/52.png 708,288,730,311,0 490,302,507,324,0 476,303,531,472,1 691,287,748,453,1 210,128,238,193,2
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/46.png 206,130,241,192,2 711,288,733,314,0 855,295,875,316,0 846,296,892,450,1 752,316,783,342,0 696,287,745,377,1 753,315,802,402,1 348,312,373,342,0 347,313,407,411,1
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/91.png 766,597,825,663,0 456,518,498,571,0 733,328,771,368,0 417,519,562,665,1 705,327,790,599,1 206,127,241,197,3
+/Users/alan.ke/Desktop/keras-yolo3-master/VOCdevkit_kyj/VOC2007/PNGImages/85.png 652,363,680,400,0 502,383,537,425,0 332,367,362,402,0 612,362,716,637,1 476,380,572,657,1 315,366,412,628,1 203,127,242,202,3
