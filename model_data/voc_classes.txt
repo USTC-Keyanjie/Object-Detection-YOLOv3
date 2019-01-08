@@ -1,0 +1,4 @@
+head
+person
+red_light
+green_light
