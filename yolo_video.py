@@ -1,6 +1,6 @@
 import sys
 import argparse
-from yolo import YOLO, detect_video
+from yolo import YOLO, detect_video, detect_cam
 from PIL import Image
 
 def detect_img(yolo):
@@ -61,6 +61,12 @@ if __name__ == '__main__':
         help = "[Optional] Video output path"
     )
 
+    parser.add_argument(
+        "--camera", nargs='?', type=str, default="",
+        help = "Camera detection mode."
+    )
+
+
     FLAGS = parser.parse_args()
 
     if FLAGS.image:
@@ -71,6 +77,8 @@ if __name__ == '__main__':
         if "input" in FLAGS:
             print(" Ignoring remaining command line arguments: " + FLAGS.input + "," + FLAGS.output)
         detect_img(YOLO(**vars(FLAGS)))
+    elif "camera" in FLAGS:
+        detect_cam(YOLO(**vars(FLAGS)), FLAGS.output)
     elif "input" in FLAGS:
         detect_video(YOLO(**vars(FLAGS)), FLAGS.input, FLAGS.output)
     else:
