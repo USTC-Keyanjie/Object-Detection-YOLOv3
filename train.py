@@ -44,7 +44,7 @@ def _main():
     np.random.seed(10101)
     np.random.shuffle(lines)
     np.random.seed(None)
-    num_val = int(len(lines)*val_split)
+    num_val = int(len(lines) * val_split)
     num_train = len(lines) - num_val
 
     # Train with frozen layers first, to get a stable loss.

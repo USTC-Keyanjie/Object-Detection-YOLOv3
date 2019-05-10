@@ -20,7 +20,7 @@ from keras.utils import multi_gpu_model
 
 class YOLO(object):
     _defaults = {
-        "model_path": 'model_data/trained_weights_final.h5',
+        "model_path": 'model_data/yolo.h5',
         "anchors_path": 'model_data/yolo_anchors.txt',
         "classes_path": 'model_data/voc_classes.txt',
         "score" : 0.3,
@@ -188,9 +188,6 @@ def detect_video(yolo, video_path, output_path=""):
     prev_time = timer()
     while True:
         return_value, frame = vid.read()
-        if frame is None:
-            print("第14组行人识别完成！")
-            break
         image = Image.fromarray(frame)
         image = yolo.detect_image(image)
         result = np.asarray(image)
@@ -217,6 +214,8 @@ def detect_video(yolo, video_path, output_path=""):
 def detect_cam(yolo, output_path=""):
     import cv2
     cap = cv2.VideoCapture(0)
+    if cap is None:
+    	print('cap is None')
 
     video_FourCC    = int(cap.get(cv2.CAP_PROP_FOURCC))
     video_fps       = cap.get(cv2.CAP_PROP_FPS)
